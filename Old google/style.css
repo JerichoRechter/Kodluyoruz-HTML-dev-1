@@ -1,0 +1,46 @@
+.searchbar {
+     position: absolute;
+     top: 300px;
+     left: 445px;
+}
+
+.searchbar {
+     height: 20px;
+     width: 400px;
+}
+
+.buttons {
+     position: absolute;
+     top: 325px;
+     left: 485px;
+}
+p{position: absolute;
+top: 260px;
+left: 545px;}
+
+.centera {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  margin-left: 380px;
+  margin-top: 100px
+}
+.square1{background-color: lightgreen; height: 80px;
+ width: 400px; position: absolute;
+ top: 405px;
+ left: 40px;text-align: center;
+    vertical-align: middle;}
+.square2{background-color: green; height: 80px;
+ width: 400px;position: absolute;
+ top: 405px;
+ left: 450px;text-align: center;
+    vertical-align: middle;}
+.square3{background-color: darkgreen; height: 80px;
+ width: 400px;position: absolute;
+ top: 405px;
+ left: 860px;text-align: center;
+    vertical-align: middle;}
+.Copyright{position: absolute;
+top: 555px;
+left: 550px;}
